@@ -1,0 +1,6 @@
+﻿  BMP_Rle8Decompress_ImageProcessing.cpp
+C:\Users\송제용\Desktop\BMP_Rle8Decompress_ImageProcessing\BMP_Rle8Decompress_ImageProcessing.h(1,1): warning C4828: 파일에 0x660 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  main.cpp
+C:\Users\송제용\Desktop\BMP_Rle8Decompress_ImageProcessing\BMP_Rle8Decompress_ImageProcessing.h(1,1): warning C4828: 파일에 0x660 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  코드를 생성하고 있습니다...
+  BMPFile-Rle8Decompress-ImageProcessing.vcxproj -> C:\Users\송제용\Desktop\visualstudio_2022\BMPFile-Rle8Decompress-ImageProcessing\BMPFile-Rle8Decompress-ImageProcessing\x64\Debug\BMPFile-Rle8Decompress-ImageProcessing.exe
