@@ -7,4 +7,4 @@
 ![image](https://github.com/joon6093/BMPFile-Rle8Decompress-ImageProcessing/assets/118044367/f7637aad-94c3-49b6-8cb5-b79d70d1ce6b)
 
 ## 추가 자료 
-[Velog 보고서 주소](https://velog.io/@joon6093/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+[보고서 링크](https://github.com/joon6093/BMPFile-Rle8Decompress-ImageProcessing/tree/master/document)
