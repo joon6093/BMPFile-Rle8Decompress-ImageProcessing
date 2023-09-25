@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\BMP_Rle8Decompress_ImageProcessing\main.cpp">
+    <ClCompile Include="ImageProcess.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\BMP_Rle8Decompress_ImageProcessing\BMP_Rle8Decompress_ImageProcessing.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\BMP_Rle8Decompress_ImageProcessing\BMP_Rle8Decompress_ImageProcessing.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="ImageProcess.h">
+      <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
